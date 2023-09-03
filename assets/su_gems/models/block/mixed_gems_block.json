@@ -1,0 +1,9 @@
+{
+  "parent": "su_gems:custom/mixedgemsblock",
+  "textures": {
+    "all": "su_gems:blocks/mixedgemsblocktexture",
+    "particle": "su_gems:blocks/mixedgemsblocktexture",
+    "missing": "su_gems:blocks/mixedgemsblocktexture"
+  },
+  "render_type": "solid"
+}

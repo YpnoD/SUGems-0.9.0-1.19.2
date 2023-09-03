@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "su_gems:mixed_gems_block",
+    "su_gems:gem_geode_block",
+    "su_gems:empty_geode",
+    "su_gems:drained_stone"
+  ]
+}

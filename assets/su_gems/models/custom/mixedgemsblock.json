@@ -1,0 +1,1716 @@
+{
+  "credit": "Made with Blockbench",
+  "elements": [
+    {
+      "name": "Stone Block",
+      "from": [
+        3,
+        0,
+        3
+      ],
+      "to": [
+        13,
+        10,
+        13
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          8.25,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            10,
+            10
+          ],
+          "texture": "#missing"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            10,
+            10
+          ],
+          "texture": "#missing"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            10,
+            10
+          ],
+          "texture": "#missing"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            10,
+            10
+          ],
+          "texture": "#missing"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            10,
+            10
+          ],
+          "rotation": 180,
+          "texture": "#missing"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            10,
+            10
+          ],
+          "rotation": 180,
+          "texture": "#missing"
+        }
+      }
+    },
+    {
+      "name": "amethyst",
+      "from": [
+        12,
+        6,
+        9
+      ],
+      "to": [
+        14,
+        8,
+        11
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          5,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            10,
+            0,
+            12,
+            2
+          ],
+          "texture": "#missing"
+        },
+        "east": {
+          "uv": [
+            10,
+            0,
+            12,
+            2
+          ],
+          "texture": "#missing"
+        },
+        "south": {
+          "uv": [
+            10,
+            0,
+            12,
+            2
+          ],
+          "texture": "#missing"
+        },
+        "west": {
+          "uv": [
+            10,
+            0,
+            12,
+            2
+          ],
+          "texture": "#missing"
+        },
+        "up": {
+          "uv": [
+            10,
+            0,
+            12,
+            2
+          ],
+          "rotation": 90,
+          "texture": "#missing"
+        },
+        "down": {
+          "uv": [
+            10,
+            0,
+            12,
+            2
+          ],
+          "rotation": 270,
+          "texture": "#missing"
+        }
+      }
+    },
+    {
+      "name": "amethyst",
+      "from": [
+        2,
+        6,
+        5
+      ],
+      "to": [
+        4,
+        8,
+        7
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          5,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            10,
+            0,
+            12,
+            2
+          ],
+          "texture": "#missing"
+        },
+        "east": {
+          "uv": [
+            10,
+            0,
+            12,
+            2
+          ],
+          "texture": "#missing"
+        },
+        "south": {
+          "uv": [
+            10,
+            0,
+            12,
+            2
+          ],
+          "texture": "#missing"
+        },
+        "west": {
+          "uv": [
+            10,
+            0,
+            12,
+            2
+          ],
+          "texture": "#missing"
+        },
+        "up": {
+          "uv": [
+            10,
+            0,
+            12,
+            2
+          ],
+          "rotation": 270,
+          "texture": "#missing"
+        },
+        "down": {
+          "uv": [
+            10,
+            0,
+            12,
+            2
+          ],
+          "rotation": 90,
+          "texture": "#missing"
+        }
+      }
+    },
+    {
+      "name": "amethyst",
+      "from": [
+        5,
+        6,
+        12
+      ],
+      "to": [
+        7,
+        8,
+        14
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          5.5,
+          5.5
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            10,
+            0,
+            12,
+            2
+          ],
+          "texture": "#missing"
+        },
+        "east": {
+          "uv": [
+            10,
+            0,
+            12,
+            2
+          ],
+          "texture": "#missing"
+        },
+        "south": {
+          "uv": [
+            10,
+            0,
+            12,
+            2
+          ],
+          "texture": "#missing"
+        },
+        "west": {
+          "uv": [
+            10,
+            0,
+            12,
+            2
+          ],
+          "texture": "#missing"
+        },
+        "up": {
+          "uv": [
+            10,
+            0,
+            12,
+            2
+          ],
+          "rotation": 180,
+          "texture": "#missing"
+        },
+        "down": {
+          "uv": [
+            10,
+            0,
+            12,
+            2
+          ],
+          "rotation": 180,
+          "texture": "#missing"
+        }
+      }
+    },
+    {
+      "name": "amethyst",
+      "from": [
+        9,
+        9,
+        10
+      ],
+      "to": [
+        11,
+        11,
+        12
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          11.5,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            10,
+            0,
+            12,
+            2
+          ],
+          "rotation": 180,
+          "texture": "#missing"
+        },
+        "east": {
+          "uv": [
+            10,
+            0,
+            12,
+            2
+          ],
+          "rotation": 270,
+          "texture": "#missing"
+        },
+        "south": {
+          "uv": [
+            10,
+            0,
+            12,
+            2
+          ],
+          "texture": "#missing"
+        },
+        "west": {
+          "uv": [
+            10,
+            0,
+            12,
+            2
+          ],
+          "rotation": 90,
+          "texture": "#missing"
+        },
+        "up": {
+          "uv": [
+            10,
+            0,
+            12,
+            2
+          ],
+          "rotation": 180,
+          "texture": "#missing"
+        },
+        "down": {
+          "uv": [
+            10,
+            0,
+            12,
+            2
+          ],
+          "texture": "#missing"
+        }
+      }
+    },
+    {
+      "name": "amethyst",
+      "from": [
+        9,
+        6,
+        2
+      ],
+      "to": [
+        11,
+        8,
+        4
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            10,
+            0,
+            12,
+            2
+          ],
+          "texture": "#missing"
+        },
+        "east": {
+          "uv": [
+            10,
+            0,
+            12,
+            2
+          ],
+          "texture": "#missing"
+        },
+        "south": {
+          "uv": [
+            10,
+            0,
+            12,
+            2
+          ],
+          "texture": "#missing"
+        },
+        "west": {
+          "uv": [
+            10,
+            0,
+            12,
+            2
+          ],
+          "texture": "#missing"
+        },
+        "up": {
+          "uv": [
+            10,
+            0,
+            12,
+            2
+          ],
+          "texture": "#missing"
+        },
+        "down": {
+          "uv": [
+            10,
+            0,
+            12,
+            2
+          ],
+          "texture": "#missing"
+        }
+      }
+    },
+    {
+      "name": "emerald",
+      "from": [
+        12,
+        7,
+        5
+      ],
+      "to": [
+        14,
+        9,
+        7
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          5,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            10,
+            2,
+            12,
+            4
+          ],
+          "texture": "#missing"
+        },
+        "east": {
+          "uv": [
+            10,
+            2,
+            12,
+            4
+          ],
+          "texture": "#missing"
+        },
+        "south": {
+          "uv": [
+            10,
+            2,
+            12,
+            4
+          ],
+          "texture": "#missing"
+        },
+        "west": {
+          "uv": [
+            10,
+            2,
+            12,
+            4
+          ],
+          "texture": "#missing"
+        },
+        "up": {
+          "uv": [
+            10,
+            2,
+            12,
+            4
+          ],
+          "rotation": 90,
+          "texture": "#missing"
+        },
+        "down": {
+          "uv": [
+            10,
+            2,
+            12,
+            4
+          ],
+          "rotation": 270,
+          "texture": "#missing"
+        }
+      }
+    },
+    {
+      "name": "emerald",
+      "from": [
+        2,
+        7,
+        9
+      ],
+      "to": [
+        4,
+        9,
+        11
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          5,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            10,
+            2,
+            12,
+            4
+          ],
+          "texture": "#missing"
+        },
+        "east": {
+          "uv": [
+            10,
+            2,
+            12,
+            4
+          ],
+          "texture": "#missing"
+        },
+        "south": {
+          "uv": [
+            10,
+            2,
+            12,
+            4
+          ],
+          "texture": "#missing"
+        },
+        "west": {
+          "uv": [
+            10,
+            2,
+            12,
+            4
+          ],
+          "texture": "#missing"
+        },
+        "up": {
+          "uv": [
+            10,
+            2,
+            12,
+            4
+          ],
+          "rotation": 270,
+          "texture": "#missing"
+        },
+        "down": {
+          "uv": [
+            10,
+            2,
+            12,
+            4
+          ],
+          "rotation": 90,
+          "texture": "#missing"
+        }
+      }
+    },
+    {
+      "name": "emerald",
+      "from": [
+        9,
+        7,
+        12
+      ],
+      "to": [
+        11,
+        9,
+        14
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          5.5,
+          5.5
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            10,
+            2,
+            12,
+            4
+          ],
+          "texture": "#missing"
+        },
+        "east": {
+          "uv": [
+            10,
+            2,
+            12,
+            4
+          ],
+          "texture": "#missing"
+        },
+        "south": {
+          "uv": [
+            10,
+            2,
+            12,
+            4
+          ],
+          "texture": "#missing"
+        },
+        "west": {
+          "uv": [
+            10,
+            2,
+            12,
+            4
+          ],
+          "texture": "#missing"
+        },
+        "up": {
+          "uv": [
+            10,
+            2,
+            12,
+            4
+          ],
+          "rotation": 180,
+          "texture": "#missing"
+        },
+        "down": {
+          "uv": [
+            10,
+            2,
+            12,
+            4
+          ],
+          "rotation": 180,
+          "texture": "#missing"
+        }
+      }
+    },
+    {
+      "name": "emerald",
+      "from": [
+        5,
+        9,
+        10
+      ],
+      "to": [
+        7,
+        11,
+        12
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          11.5,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            10,
+            2,
+            12,
+            4
+          ],
+          "rotation": 180,
+          "texture": "#missing"
+        },
+        "east": {
+          "uv": [
+            10,
+            2,
+            12,
+            4
+          ],
+          "rotation": 270,
+          "texture": "#missing"
+        },
+        "south": {
+          "uv": [
+            10,
+            2,
+            12,
+            4
+          ],
+          "texture": "#missing"
+        },
+        "west": {
+          "uv": [
+            10,
+            2,
+            12,
+            4
+          ],
+          "rotation": 90,
+          "texture": "#missing"
+        },
+        "up": {
+          "uv": [
+            10,
+            2,
+            12,
+            4
+          ],
+          "rotation": 180,
+          "texture": "#missing"
+        },
+        "down": {
+          "uv": [
+            10,
+            2,
+            12,
+            4
+          ],
+          "texture": "#missing"
+        }
+      }
+    },
+    {
+      "name": "emerald",
+      "from": [
+        5,
+        7,
+        2
+      ],
+      "to": [
+        7,
+        9,
+        4
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            10,
+            2,
+            12,
+            4
+          ],
+          "texture": "#missing"
+        },
+        "east": {
+          "uv": [
+            10,
+            2,
+            12,
+            4
+          ],
+          "texture": "#missing"
+        },
+        "south": {
+          "uv": [
+            10,
+            2,
+            12,
+            4
+          ],
+          "texture": "#missing"
+        },
+        "west": {
+          "uv": [
+            10,
+            2,
+            12,
+            4
+          ],
+          "texture": "#missing"
+        },
+        "up": {
+          "uv": [
+            10,
+            2,
+            12,
+            4
+          ],
+          "texture": "#missing"
+        },
+        "down": {
+          "uv": [
+            10,
+            2,
+            12,
+            4
+          ],
+          "texture": "#missing"
+        }
+      }
+    },
+    {
+      "name": "diamond",
+      "from": [
+        12,
+        2,
+        9
+      ],
+      "to": [
+        14,
+        4,
+        11
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          5,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            10,
+            4,
+            12,
+            6
+          ],
+          "texture": "#missing"
+        },
+        "east": {
+          "uv": [
+            10,
+            4,
+            12,
+            6
+          ],
+          "texture": "#missing"
+        },
+        "south": {
+          "uv": [
+            10,
+            4,
+            12,
+            6
+          ],
+          "texture": "#missing"
+        },
+        "west": {
+          "uv": [
+            10,
+            4,
+            12,
+            6
+          ],
+          "texture": "#missing"
+        },
+        "up": {
+          "uv": [
+            10,
+            4,
+            12,
+            6
+          ],
+          "rotation": 90,
+          "texture": "#missing"
+        },
+        "down": {
+          "uv": [
+            10,
+            4,
+            12,
+            6
+          ],
+          "rotation": 270,
+          "texture": "#missing"
+        }
+      }
+    },
+    {
+      "name": "diamond",
+      "from": [
+        2,
+        2,
+        5
+      ],
+      "to": [
+        4,
+        4,
+        7
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          5,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            10,
+            4,
+            12,
+            6
+          ],
+          "texture": "#missing"
+        },
+        "east": {
+          "uv": [
+            10,
+            4,
+            12,
+            6
+          ],
+          "texture": "#missing"
+        },
+        "south": {
+          "uv": [
+            10,
+            4,
+            12,
+            6
+          ],
+          "texture": "#missing"
+        },
+        "west": {
+          "uv": [
+            10,
+            4,
+            12,
+            6
+          ],
+          "texture": "#missing"
+        },
+        "up": {
+          "uv": [
+            10,
+            4,
+            12,
+            6
+          ],
+          "rotation": 270,
+          "texture": "#missing"
+        },
+        "down": {
+          "uv": [
+            10,
+            4,
+            12,
+            6
+          ],
+          "rotation": 90,
+          "texture": "#missing"
+        }
+      }
+    },
+    {
+      "name": "diamond",
+      "from": [
+        5,
+        2,
+        12
+      ],
+      "to": [
+        7,
+        4,
+        14
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          5.5,
+          5.5
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            10,
+            4,
+            12,
+            6
+          ],
+          "texture": "#missing"
+        },
+        "east": {
+          "uv": [
+            10,
+            4,
+            12,
+            6
+          ],
+          "texture": "#missing"
+        },
+        "south": {
+          "uv": [
+            10,
+            4,
+            12,
+            6
+          ],
+          "texture": "#missing"
+        },
+        "west": {
+          "uv": [
+            10,
+            4,
+            12,
+            6
+          ],
+          "texture": "#missing"
+        },
+        "up": {
+          "uv": [
+            10,
+            4,
+            12,
+            6
+          ],
+          "rotation": 180,
+          "texture": "#missing"
+        },
+        "down": {
+          "uv": [
+            10,
+            4,
+            12,
+            6
+          ],
+          "rotation": 180,
+          "texture": "#missing"
+        }
+      }
+    },
+    {
+      "name": "diamond",
+      "from": [
+        9,
+        9,
+        5
+      ],
+      "to": [
+        11,
+        11,
+        7
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          11.5,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            10,
+            4,
+            12,
+            6
+          ],
+          "rotation": 180,
+          "texture": "#missing"
+        },
+        "east": {
+          "uv": [
+            10,
+            4,
+            12,
+            6
+          ],
+          "rotation": 270,
+          "texture": "#missing"
+        },
+        "south": {
+          "uv": [
+            10,
+            4,
+            12,
+            6
+          ],
+          "texture": "#missing"
+        },
+        "west": {
+          "uv": [
+            10,
+            4,
+            12,
+            6
+          ],
+          "rotation": 90,
+          "texture": "#missing"
+        },
+        "up": {
+          "uv": [
+            10,
+            4,
+            12,
+            6
+          ],
+          "rotation": 180,
+          "texture": "#missing"
+        },
+        "down": {
+          "uv": [
+            10,
+            4,
+            12,
+            6
+          ],
+          "texture": "#missing"
+        }
+      }
+    },
+    {
+      "name": "diamond",
+      "from": [
+        9,
+        2,
+        2
+      ],
+      "to": [
+        11,
+        4,
+        4
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            10,
+            4,
+            12,
+            6
+          ],
+          "texture": "#missing"
+        },
+        "east": {
+          "uv": [
+            10,
+            4,
+            12,
+            6
+          ],
+          "texture": "#missing"
+        },
+        "south": {
+          "uv": [
+            10,
+            4,
+            12,
+            6
+          ],
+          "texture": "#missing"
+        },
+        "west": {
+          "uv": [
+            10,
+            4,
+            12,
+            6
+          ],
+          "texture": "#missing"
+        },
+        "up": {
+          "uv": [
+            10,
+            4,
+            12,
+            6
+          ],
+          "texture": "#missing"
+        },
+        "down": {
+          "uv": [
+            10,
+            4,
+            12,
+            6
+          ],
+          "texture": "#missing"
+        }
+      }
+    },
+    {
+      "name": "quartz",
+      "from": [
+        12,
+        2,
+        5
+      ],
+      "to": [
+        14,
+        4,
+        7
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          5,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            10,
+            6,
+            12,
+            8
+          ],
+          "texture": "#missing"
+        },
+        "east": {
+          "uv": [
+            10,
+            6,
+            12,
+            8
+          ],
+          "texture": "#missing"
+        },
+        "south": {
+          "uv": [
+            10,
+            6,
+            12,
+            8
+          ],
+          "texture": "#missing"
+        },
+        "west": {
+          "uv": [
+            10,
+            6,
+            12,
+            8
+          ],
+          "texture": "#missing"
+        },
+        "up": {
+          "uv": [
+            10,
+            6,
+            12,
+            8
+          ],
+          "rotation": 90,
+          "texture": "#missing"
+        },
+        "down": {
+          "uv": [
+            10,
+            6,
+            12,
+            8
+          ],
+          "rotation": 270,
+          "texture": "#missing"
+        }
+      }
+    },
+    {
+      "name": "quartz",
+      "from": [
+        2,
+        2,
+        9
+      ],
+      "to": [
+        4,
+        4,
+        11
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          5,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            10,
+            6,
+            12,
+            8
+          ],
+          "texture": "#missing"
+        },
+        "east": {
+          "uv": [
+            10,
+            6,
+            12,
+            8
+          ],
+          "texture": "#missing"
+        },
+        "south": {
+          "uv": [
+            10,
+            6,
+            12,
+            8
+          ],
+          "texture": "#missing"
+        },
+        "west": {
+          "uv": [
+            10,
+            6,
+            12,
+            8
+          ],
+          "texture": "#missing"
+        },
+        "up": {
+          "uv": [
+            10,
+            6,
+            12,
+            8
+          ],
+          "rotation": 270,
+          "texture": "#missing"
+        },
+        "down": {
+          "uv": [
+            10,
+            6,
+            12,
+            8
+          ],
+          "rotation": 90,
+          "texture": "#missing"
+        }
+      }
+    },
+    {
+      "name": "quartz",
+      "from": [
+        9,
+        2,
+        12
+      ],
+      "to": [
+        11,
+        4,
+        14
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          5.5,
+          5.5
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            10,
+            6,
+            12,
+            8
+          ],
+          "texture": "#missing"
+        },
+        "east": {
+          "uv": [
+            10,
+            6,
+            12,
+            8
+          ],
+          "texture": "#missing"
+        },
+        "south": {
+          "uv": [
+            10,
+            6,
+            12,
+            8
+          ],
+          "texture": "#missing"
+        },
+        "west": {
+          "uv": [
+            10,
+            6,
+            12,
+            8
+          ],
+          "texture": "#missing"
+        },
+        "up": {
+          "uv": [
+            10,
+            6,
+            12,
+            8
+          ],
+          "rotation": 180,
+          "texture": "#missing"
+        },
+        "down": {
+          "uv": [
+            10,
+            6,
+            12,
+            8
+          ],
+          "rotation": 180,
+          "texture": "#missing"
+        }
+      }
+    },
+    {
+      "name": "quartz",
+      "from": [
+        5,
+        9,
+        5
+      ],
+      "to": [
+        7,
+        11,
+        7
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          11.5,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            10,
+            6,
+            12,
+            8
+          ],
+          "rotation": 180,
+          "texture": "#missing"
+        },
+        "east": {
+          "uv": [
+            10,
+            6,
+            12,
+            8
+          ],
+          "rotation": 270,
+          "texture": "#missing"
+        },
+        "south": {
+          "uv": [
+            10,
+            6,
+            12,
+            8
+          ],
+          "texture": "#missing"
+        },
+        "west": {
+          "uv": [
+            10,
+            6,
+            12,
+            8
+          ],
+          "rotation": 90,
+          "texture": "#missing"
+        },
+        "up": {
+          "uv": [
+            10,
+            6,
+            12,
+            8
+          ],
+          "rotation": 180,
+          "texture": "#missing"
+        },
+        "down": {
+          "uv": [
+            10,
+            6,
+            12,
+            8
+          ],
+          "texture": "#missing"
+        }
+      }
+    },
+    {
+      "name": "quartz",
+      "from": [
+        5,
+        2,
+        2
+      ],
+      "to": [
+        7,
+        4,
+        4
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            10,
+            6,
+            12,
+            8
+          ],
+          "texture": "#missing"
+        },
+        "east": {
+          "uv": [
+            10,
+            6,
+            12,
+            8
+          ],
+          "texture": "#missing"
+        },
+        "south": {
+          "uv": [
+            10,
+            6,
+            12,
+            8
+          ],
+          "texture": "#missing"
+        },
+        "west": {
+          "uv": [
+            10,
+            6,
+            12,
+            8
+          ],
+          "texture": "#missing"
+        },
+        "up": {
+          "uv": [
+            10,
+            6,
+            12,
+            8
+          ],
+          "texture": "#missing"
+        },
+        "down": {
+          "uv": [
+            10,
+            6,
+            12,
+            8
+          ],
+          "texture": "#missing"
+        }
+      }
+    }
+  ],
+  "groups": [
+    0,
+    {
+      "name": "Amethyst Specks",
+      "origin": [
+        0,
+        0,
+        0
+      ],
+      "color": 0,
+      "children": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "name": "Emerald Specks",
+      "origin": [
+        0,
+        0,
+        0
+      ],
+      "color": 0,
+      "children": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "name": "Diamond Specks",
+      "origin": [
+        0,
+        0,
+        0
+      ],
+      "color": 0,
+      "children": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "name": "Quartz Specks",
+      "origin": [
+        0,
+        0,
+        0
+      ],
+      "color": 0,
+      "children": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "su_gems:block/injector_block"
+    }
+  }
+}

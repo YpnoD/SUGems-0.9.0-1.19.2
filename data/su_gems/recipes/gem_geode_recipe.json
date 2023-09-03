@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:smooth_basalt"
+    },
+    "1": {
+      "item": "minecraft:calcite"
+    },
+    "2": {
+      "item": "minecraft:smooth_basalt"
+    },
+    "3": {
+      "item": "minecraft:calcite"
+    },
+    "4": {
+      "item": "su_gems:mixed_gems_block"
+    },
+    "5": {
+      "item": "minecraft:calcite"
+    },
+    "6": {
+      "item": "minecraft:smooth_basalt"
+    },
+    "7": {
+      "item": "minecraft:calcite"
+    },
+    "8": {
+      "item": "minecraft:smooth_basalt"
+    }
+  },
+  "result": {
+    "item": "su_gems:gem_geode_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "su_gems:blocks/drainedstonetopnunder",
+    "up": "su_gems:blocks/drainedstonetopnunder",
+    "north": "su_gems:blocks/drainedstoneside",
+    "east": "su_gems:blocks/drainedstoneside",
+    "south": "su_gems:blocks/drainedstoneside",
+    "west": "su_gems:blocks/drainedstoneside",
+    "particle": "su_gems:blocks/drainedstonetopnunder"
+  },
+  "render_type": "solid"
+}

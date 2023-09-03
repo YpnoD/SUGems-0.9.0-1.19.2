@@ -1,0 +1,11 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "deep_cold_ocean",
+    "warm_ocean",
+    "deep_lukewarm_ocean",
+    "deep_ocean"
+  ],
+  "features": "su_gems:lunar_sea_spire",
+  "step": "surface_structures"
+}

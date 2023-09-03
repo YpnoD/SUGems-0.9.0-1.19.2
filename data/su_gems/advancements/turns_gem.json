@@ -1,0 +1,23 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "su_gems:gem_item"
+    },
+    "title": {
+      "translate": "advancements.turns_gem.title"
+    },
+    "description": {
+      "translate": "advancements.turns_gem.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "turns_gem": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

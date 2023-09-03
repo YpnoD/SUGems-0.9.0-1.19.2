@@ -1,0 +1,9 @@
+{
+  "parent": "su_gems:custom/drainedgeode",
+  "textures": {
+    "all": "su_gems:blocks/gemgeodetexture",
+    "particle": "su_gems:blocks/gemgeodetexture",
+    "missing": "su_gems:blocks/gemgeodetexture"
+  },
+  "render_type": "solid"
+}

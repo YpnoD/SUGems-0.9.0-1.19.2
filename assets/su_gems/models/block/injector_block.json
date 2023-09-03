@@ -1,0 +1,9 @@
+{
+  "parent": "su_gems:custom/injectormodel",
+  "textures": {
+    "all": "su_gems:blocks/injectortexture",
+    "particle": "su_gems:blocks/injectortexture",
+    "missing": "su_gems:blocks/injectortexture"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,61 @@
+{
+  "poof": {
+    "subtitle": "subtitles.poof",
+    "sounds": [
+      {
+        "name": "su_gems:poof",
+        "stream": false
+      }
+    ]
+  },
+  "gemgenericsound": {
+    "sounds": [
+      {
+        "name": "su_gems:gemgenericsound",
+        "stream": false
+      }
+    ]
+  },
+  "gemfall": {
+    "sounds": [
+      {
+        "name": "su_gems:gemfall",
+        "stream": false
+      }
+    ]
+  },
+  "bubblepop": {
+    "subtitle": "subtitles.bubblepop",
+    "sounds": [
+      {
+        "name": "su_gems:bubblepop",
+        "stream": false
+      }
+    ]
+  },
+  "bubble": {
+    "sounds": [
+      {
+        "name": "su_gems:bubble",
+        "stream": false
+      }
+    ]
+  },
+  "reform": {
+    "subtitle": "subtitles.reform",
+    "sounds": [
+      {
+        "name": "su_gems:reform",
+        "stream": false
+      }
+    ]
+  },
+  "reformed": {
+    "sounds": [
+      {
+        "name": "su_gems:regen",
+        "stream": false
+      }
+    ]
+  }
+}

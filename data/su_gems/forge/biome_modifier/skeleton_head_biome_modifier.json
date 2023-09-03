@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "su_gems:kindergarten",
+  "features": "su_gems:skeleton_head",
+  "step": "surface_structures"
+}

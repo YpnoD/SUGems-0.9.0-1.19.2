@@ -1,0 +1,7 @@
+{
+  "parent": "su_gems:custom/gempadmodel",
+  "textures": {
+    "missing": "su_gems:blocks/gempadtexture",
+    "particle": "su_gems:items/gempadtexture"
+  }
+}
